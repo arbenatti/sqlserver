@@ -1,3 +1,4 @@
+--Utilização dos índices
 SELECT
     D.[name] + '.' + C.[name] AS ObjectName,
     A.[name] AS IndexName,
