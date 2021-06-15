@@ -1,3 +1,4 @@
+--Identificar tabelas e índices sem compressão
 SELECT DISTINCT 
     C.[name] AS [Schema],
     A.[name] AS Tabela,
