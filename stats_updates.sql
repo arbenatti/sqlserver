@@ -1,3 +1,4 @@
+--Estatísticas há mais de 7 dias sem atualizar
 SELECT
     D.last_updated AS [LastUpdate],
     B.[name] AS [Table],
