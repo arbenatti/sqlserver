@@ -1,3 +1,4 @@
+--Identificando possíveis bons candidatos para índice Clustered
 SELECT
     B.[name] AS table_name,
     idx.[name] AS clustered_index,
