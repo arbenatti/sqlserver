@@ -1,3 +1,4 @@
+--Identificar tabelas HEAP (sem índice clustered)
 SELECT
     B.[name] + '.' + A.[name] AS table_name
 FROM
