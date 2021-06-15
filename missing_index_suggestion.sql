@@ -1,3 +1,4 @@
+--Sugestões de Missing Index
 SELECT
     db.[name] AS [DatabaseName],
     id.[object_id] AS [ObjectID],
