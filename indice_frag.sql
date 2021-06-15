@@ -1,3 +1,4 @@
+--Identificar fragmentação dos índices
 SELECT
     C.[name] AS TableName,
     B.[name] AS IndexName,
